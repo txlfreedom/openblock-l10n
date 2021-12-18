@@ -500,6 +500,7 @@
     "gui.device.unselectDevice.description": "Unselect the deivce, return to pure realtime programming mode.",
     "gui.device.arduinoUno.description": "A great board to get started with electronics and coding.",
     "gui.device.unoCore.description": "UnoCore is a programmable control host based on ATMEGA328P master, with electronic extensions of Arduino and mechanical interest combined with Lego.",
+    "gui.device.unoStart.description": "UnoCore is a programmable control host based on ATMEGA328P master, with electronic extensions of Arduino and mechanical interest combined with Lego.",
     "gui.device.arduino.connectingMessage": "Connecting",
     "gui.device.arduinoNano.description": "The Arduino Nano is a classic small board to build your projects with.",
     "gui.device.arduinoMini.description": "The Arduino Mini a classic smaller board to build your projects with.",

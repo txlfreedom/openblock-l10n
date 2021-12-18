@@ -500,6 +500,7 @@
     "gui.device.unselectDevice.description": "取消设备选择，回到纯实时编程模式。",
     "gui.device.arduinoUno.description": "很好的电子编程入门控制板。",
     "gui.device.unoCore.description": "UnoCore是基于ATMEGA328P主控开发的一款可编程控制主机，兼具Arduino的电子扩展性及与乐高相结合的机械趣味性。",
+    "gui.device.unoStart.description": "unoStart是基于ATMEGA328P主控开发的一款可编程控制主机，兼具Arduino的电子扩展性及与乐高相结合的机械趣味性。",
     "gui.device.arduino.connectingMessage": "正在连接",
     "gui.device.arduinoNano.description": "Arduino Nano 用于构建项目的经典小控制板。",
     "gui.device.arduinoMini.description": "Arduino Mini 用于构建项目的更小控制板。",
